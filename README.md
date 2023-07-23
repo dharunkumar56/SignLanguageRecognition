@@ -1,4 +1,4 @@
-This project is a model which recognizes hand signs (thumbs up, thumbs down, thankyou and livelong)
+This project is a model which recognizes hand signs (thumbs up, thumbs down, thankyou and livelong) in real-time
 
 Supervised learning
 
